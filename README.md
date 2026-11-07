@@ -4,7 +4,6 @@
 ## 📑 Table of Contents
 
 1. [Brief One-Line Summary](#1-brief-one-line-summary)
-2. [Overview](#2-overview)
 3. [Problem Statement](#3-problem-statement)
 4. [Dataset](#-4-dataset)
 5. [Tools and Technologies](#5-tools-and-technologies)
@@ -13,7 +12,7 @@
 8. [Technical Architecture](#8-technical-architecture)
 9. [How to Run This Project](#9-how-to-run-this-project)
 10. [Screenshots and Demo](#10-screenshots-and-demo)
-11. [Future Work](#11-future-work)
+11. [Innovation and Unique Selling Proposition](#11-innovation-and-unique-selling-proposition)
 12. [Author & Contact](#12-author--contact)
 
 
@@ -22,11 +21,6 @@
 
 **CreatorConnect** is an AI-powered platform designed to help small and aspiring content creators understand their audience, make informed content decisions and improve their growth journey. It also features an **AI-powered Daily Planner** that helps creators organize their daily tasks, track their mental well-being, monitor their content growth and maintain a **healthy balance** between personal well-being and content creation.
 
-## 2. Overview
-
-CreatorConnect aims to simplify the content creation journey for beginner and small-scale creators.
-
-The platform focuses on understanding audience feedback, generating useful content insights and helping creators make better decisions based on their audience's interests and preferences.
 
 
 
@@ -111,7 +105,7 @@ REST APIs  --->  Backend Communication
 
 (To describe the implemented features, project outcomes and how CreatorConnect addresses the identified problem.)
 
-## 11. Future Work
+## 11. Innovation and Unique Selling Proposition
 
 - More advanced audience sentiment analysis.
 - Personalized content recommendations.
