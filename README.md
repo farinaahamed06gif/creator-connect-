@@ -36,6 +36,9 @@ Small content creators often struggle with:
 **Our Solution:** CreatorConnect brings everything together in one AI-powered platform, offering audience insights, instant content ideas and a daily planner to track content growth and mental well-being.
 
 ## 📊 4. Dataset
+<p align="center">
+  <img src="" width="500">
+</p>
 
 CreatorConnect uses user-provided information and application data stored in Supabase to support creator well-being, content growth and collaboration.
 
