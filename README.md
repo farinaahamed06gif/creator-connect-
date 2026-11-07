@@ -40,13 +40,6 @@ Small content creators often struggle with:
   <img src="CreatorConnect Dataset Overview.png" width="500">
 </p>
 
-CreatorConnect uses user-provided information and application data stored in Supabase to support creator well-being, content growth and collaboration.
-
-- **Mental Well-being Data:** User-reported energy levels, daily availability and personal well-being inputs to help create balanced schedules and reduce creator burnout.
-- **Content Data:** Topics, niches and platforms used for AI-powered market opportunity analysis and creative recommendations.
-- **Creator Profiles:** Bios, niches, platforms, audience sizes and availability for discovering potential collaborators.
-- **Planning Data:** Personal goals, available hours and energy levels used to generate personalised weekly plans with 1–2 complete rest days.
-- **Collaboration Data:** Requests, applications and open listings stored in Supabase to support creator networking.
 
 **🤖 AI-Powered Data Processing:** Powered by **Google Gemini AI**, CreatorConnect analyses user inputs to generate intelligent market insights, creative content ideas and personalised weekly schedules, prioritising mental well-being and sustainable creator growth.
 
