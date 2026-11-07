@@ -52,7 +52,8 @@ CreatorConnect uses user-provided information and application data stored in Sup
 - **Collaboration Data:** Requests, applications and open listings stored in Supabase to support creator networking.
 
 **🤖 AI-Powered Data Processing:** Powered by **Google Gemini AI**, CreatorConnect analyses user inputs to generate intelligent market insights, creative content ideas and personalised weekly schedules, prioritising mental well-being and sustainable creator growth.
-## 🛠️ 5. Tools and Technologies
+## 🛠️ 
+5. Tools and Technologies
 
 - **AI Integration:** Google Gemini AI (Gemini Flash models) – for market opportunity analysis, creative content suggestions and AI-powered weekly planning.
 - **Database & Backend Services:** Supabase – for storing creator profiles, weekly plans, daily tasks and collaboration data.
