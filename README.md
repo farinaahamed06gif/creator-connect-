@@ -10,7 +10,7 @@
 5. [Tools and Technologies](#5-tools-and-technologies)
 6. [Method-Workflow](#6-method-workflow)
 7. [Key features](#7-key-features)
-8. [Dashboard / Model / Output](#8-dashboard--model--output)
+8. [Technical Architecture](#8-technical-architecture)
 9. [How to Run This Project](#9-how-to-run-this-project)
 10. [Results & Conclusion](#10-results--conclusion)
 11. [Future Work](#11-future-work)
@@ -99,7 +99,7 @@ REST APIs  --->  Backend Communication
   <img src="src/key-insights.png" width="500">
 </p>
 
-## 8. Dashboard / Model / Output
+## 8. Technical Architecture
 
 (To include screenshots of the application, dashboard, AI-generated insights and working features.)
 
