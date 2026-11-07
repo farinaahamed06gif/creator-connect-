@@ -5,15 +5,15 @@
 
 1. [Brief One-Line Summary](#1-brief-one-line-summary)
 2. [Problem Statement](#2-problem-statement)
-3. [Dataset](#-4-dataset)
-4. [Tools and Technologies](#5-tools-and-technologies)
-5. [Method-Workflow](#6-method-workflow)
-6. [Key features](#7-key-features)
-7. [Technical Architecture](#8-technical-architecture)
-8. [How to Run This Project](#9-how-to-run-this-project)
-9. [Screenshots and Demo](#10-screenshots-and-demo)
-10. [Innovation and Unique Selling Proposition](#11-innovation-and-unique-selling-proposition)
-11. [Author & Contact](#12-author--contact)
+3. [Dataset](#-3-dataset)
+4. [Tools and Technologies](#4-tools-and-technologies)
+5. [Method-Workflow](#5-method-workflow)
+6. [Key features](#6-key-features)
+7. [Technical Architecture](#7-technical-architecture)
+8. [How to Run This Project](#8-how-to-run-this-project)
+9. [Screenshots and Demo](#9-screenshots-and-demo)
+10. [Innovation and Unique Selling Proposition](#10-innovation-and-unique-selling-proposition)
+11. [Author & Contact](#11-author--contact)
 
 
 
