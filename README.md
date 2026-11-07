@@ -12,7 +12,7 @@
 7. [Key features](#7-key-features)
 8. [Technical Architecture](#8-technical-architecture)
 9. [How to Run This Project](#9-how-to-run-this-project)
-10. [Screenshots & Demo](#10-screenshots-&-demo)
+10. [Screenshots and Demo](#10-screenshots-and-demo)
 11. [Future Work](#11-future-work)
 12. [Author & Contact](#12-author--contact)
 
@@ -107,7 +107,7 @@ REST APIs  --->  Backend Communication
 
 (To include prerequisites, installation commands, environment configuration and instructions to run the application.)
 
-## 10. Screenshots & Demo
+## 10. Screenshots and Demo
 
 (To describe the implemented features, project outcomes and how CreatorConnect addresses the identified problem.)
 
