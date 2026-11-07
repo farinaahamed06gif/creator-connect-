@@ -37,7 +37,7 @@ Small content creators often struggle with:
 
 ## 📊 4. Dataset
 <p align="center">
-  <img src="CreatorConnect Dataset Overview.png" width="500">
+  <img src="Dataset-Overview.png" width="500">
 </p>
 
 
