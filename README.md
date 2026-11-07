@@ -9,7 +9,7 @@
 4. [Dataset](#-4-dataset)
 5. [Tools and Technologies](#-5-tools-and-technologies)
 6. [Methods](#6-methods)
-7. [Key Insights](#7-key-insights)
+7. [Key features](#7-key-insights)
 8. [Dashboard / Model / Output](#8-dashboard--model--output)
 9. [How to Run This Project](#9-how-to-run-this-project)
 10. [Results & Conclusion](#10-results--conclusion)
@@ -91,7 +91,7 @@ REST APIs  --->  Backend Communication
 
 
 
-## 7. Key Insights
+## 7. Key features
 
 <p align="center">
   <img src="src/key-insights.png" width="500">
