@@ -7,8 +7,8 @@
 2. [Overview](#2-overview)
 3. [Problem Statement](#3-problem-statement)
 4. [Dataset](#-4-dataset)
-5. [Tools and Technologies](#-5-tools-and-technologies)
-6. [Methods](#6-methods)
+5. [Tools and Technologies](#5-tools-and-technologies)
+6. [Method-Workflow](#6-method-workflow)
 7. [Key features](#7-key-features)
 8. [Dashboard / Model / Output](#8-dashboard--model--output)
 9. [How to Run This Project](#9-how-to-run-this-project)
@@ -52,8 +52,9 @@ CreatorConnect uses user-provided information and application data stored in Sup
 - **Collaboration Data:** Requests, applications and open listings stored in Supabase to support creator networking.
 
 **🤖 AI-Powered Data Processing:** Powered by **Google Gemini AI**, CreatorConnect analyses user inputs to generate intelligent market insights, creative content ideas and personalised weekly schedules, prioritising mental well-being and sustainable creator growth.
+
 ## 🛠️ 
-5. Tools and Technologies
+## 5. Tools and Technologies
 
 - **AI Integration:** Google Gemini AI (Gemini Flash models) – for market opportunity analysis, creative content suggestions and AI-powered weekly planning.
 - **Database & Backend Services:** Supabase – for storing creator profiles, weekly plans, daily tasks and collaboration data.
