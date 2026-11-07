@@ -20,7 +20,7 @@
 
 ## 1. Brief One-Line Summary
 
-CreatorConnect is an AI-powered platform designed to help small and aspiring content creators understand their audience, make informed content decisions and improve their growth journey. It also features an **AI-powered Daily Planner** that helps creators organize their daily tasks, track their mental well-being, monitor their content growth and maintain a healthy balance between personal well-being and content creation.
+**CreatorConnect** is an AI-powered platform designed to help small and aspiring content creators understand their audience, make informed content decisions and improve their growth journey. It also features an **AI-powered Daily Planner** that helps creators organize their daily tasks, track their mental well-being, monitor their content growth and maintain a **healthy balance** between personal well-being and content creation.
 
 ## 2. Overview
 
@@ -61,9 +61,35 @@ CreatorConnect uses user-provided information and application data stored in Sup
 - **Programming Languages:** (Add the languages used in your project.)
 - **Development Tools:** Git, GitHub and Visual Studio Code.
 
-## 6. Methods
+## 6. Method-Workflow
+       User Registration
+               |
+               v
+        Creator Discovery
+               |
+               v
+        AI Analysis (Gemini)
+               |
+               v
+         Weekly Planning
+               |
+               v
+      Daily Task Management
+               |
+               v
+        Results & Insights
+ Technology Integration:
 
-(To explain the workflow, data processing, AI integration and methods used to generate audience insights.)
+Supabase  --->  Data Storage
+
+Gemini AI  --->  AI-Powered Suggestions
+
+REST APIs  --->  Backend Communication
+
+
+    
+
+
 
 ## 7. Key Insights
 
