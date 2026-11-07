@@ -37,7 +37,7 @@ Small content creators often struggle with:
 
 ## 📊 4. Dataset
 <p align="center">
-  <img src="" width="500">
+  <img src="CreatorConnect Dataset Overview.png" width="500">
 </p>
 
 CreatorConnect uses user-provided information and application data stored in Supabase to support creator well-being, content growth and collaboration.
