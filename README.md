@@ -4,16 +4,16 @@
 ## 📑 Table of Contents
 
 1. [Brief One-Line Summary](#1-brief-one-line-summary)
-3. [Problem Statement](#3-problem-statement)
-4. [Dataset](#-4-dataset)
-5. [Tools and Technologies](#5-tools-and-technologies)
-6. [Method-Workflow](#6-method-workflow)
-7. [Key features](#7-key-features)
-8. [Technical Architecture](#8-technical-architecture)
-9. [How to Run This Project](#9-how-to-run-this-project)
-10. [Screenshots and Demo](#10-screenshots-and-demo)
-11. [Innovation and Unique Selling Proposition](#11-innovation-and-unique-selling-proposition)
-12. [Author & Contact](#12-author--contact)
+2. [Problem Statement](#2-problem-statement)
+3. [Dataset](#-4-dataset)
+4. [Tools and Technologies](#5-tools-and-technologies)
+5. [Method-Workflow](#6-method-workflow)
+6. [Key features](#7-key-features)
+7. [Technical Architecture](#8-technical-architecture)
+8. [How to Run This Project](#9-how-to-run-this-project)
+9. [Screenshots and Demo](#10-screenshots-and-demo)
+10. [Innovation and Unique Selling Proposition](#11-innovation-and-unique-selling-proposition)
+11. [Author & Contact](#12-author--contact)
 
 
 
@@ -24,7 +24,7 @@
 
 
 
-## 3. Problem Statement
+## 2. Problem Statement
 
 Small content creators often struggle with:
 
@@ -35,7 +35,7 @@ Small content creators often struggle with:
 
 **Our Solution:** CreatorConnect brings everything together in one AI-powered platform, offering audience insights, instant content ideas and a daily planner to track content growth and mental well-being.
 
-## 📊 4. Dataset
+## 📊 3. Dataset
 <p align="center">
   <img src="Dataset-Overview.png" width="500">
 </p>
@@ -44,7 +44,7 @@ Small content creators often struggle with:
 **🤖 AI-Powered Data Processing:** Powered by **Google Gemini AI**, CreatorConnect analyses user inputs to generate intelligent market insights, creative content ideas and personalised weekly schedules, prioritising mental well-being and sustainable creator growth.
 
 ## 🛠️ 
-## 5. Tools and Technologies
+## 4. Tools and Technologies
 
 - **AI Integration:** Google Gemini AI (Gemini Flash models) – for market opportunity analysis, creative content suggestions and AI-powered weekly planning.
 - **Database & Backend Services:** Supabase – for storing creator profiles, weekly plans, daily tasks and collaboration data.
@@ -53,7 +53,7 @@ Small content creators often struggle with:
 - **Programming Languages:** (Add the languages used in your project.)
 - **Development Tools:** Git, GitHub and Visual Studio Code.
 
-## 6. Method-Workflow
+## 5. Method-Workflow
        User Registration
                |
                v
@@ -83,32 +83,32 @@ REST APIs  --->  Backend Communication
 
 
 
-## 7. Key features
+## 6. Key features
 
 <p align="center">
   <img src="src/key-insights.png" width="500">
 </p>
 
-## 8. Technical Architecture
+## 7. Technical Architecture
 
 (To include screenshots of the application, dashboard, AI-generated insights and working features.)
 
-## 9. How to Run This Project?
+## 8. How to Run This Project?
 
 (To include prerequisites, installation commands, environment configuration and instructions to run the application.)
 
-## 10. Screenshots and Demo
+## 9. Screenshots and Demo
 
 (To describe the implemented features, project outcomes and how CreatorConnect addresses the identified problem.)
 
-## 11. Innovation and Unique Selling Proposition
+## 10. Innovation and Unique Selling Proposition
 
 - More advanced audience sentiment analysis.
 - Personalized content recommendations.
 - Improved AI-powered content planning.
 - Additional creator growth insights.
 
-## 12. Author & Contact
+## 11. Author & Contact
 
 **Project:** CreatorConnect
 
