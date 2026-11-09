@@ -11,7 +11,7 @@
 6. [Key features](#6-key-features)
 7. [Technical Architecture](#7-technical-architecture)
 8. [How to Run This Project](#8-how-to-run-this-project)
-9. [Screenshots and Demo](#9-screenshots-and-demo)
+9. [Demo](#9-demo)
 10. [Innovation and Unique Selling Proposition](#10-innovation-and-unique-selling-proposition)
 11. [Author & Contact](#11-author--contact)
 
@@ -153,25 +153,12 @@ Gemini AI  --->  AI-Powered Suggestions
 REST APIs  --->  Backend Communication
 
 
-    
-
-
-
-## 6. Key features
-
-<p align="center">
-  <img src="src/key-insights.png" width="500">
-</p>
-
 ## 7. Technical Architecture
 
 (To include screenshots of the application, dashboard, AI-generated insights and working features.)
 
-## 8. How to Run This Project?
 
-(To include prerequisites, installation commands, environment configuration and instructions to run the application.)
-
-## 9. Screenshots and Demo
+## 9. Demo
 
 (To describe the implemented features, project outcomes and how CreatorConnect addresses the identified problem.)
 
