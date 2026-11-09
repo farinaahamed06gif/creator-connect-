@@ -78,9 +78,35 @@ flowchart TD
 
 
 ## 📊 3. Dataset
-<p align="center">
-  <img src="Dataset-Overview.png" width="500">
-</p>
+
+## 4. Dataset
+
+```mermaid
+flowchart LR
+    A(("✦<br/>CREATOR<br/>CONNECT"))
+
+    A --- B["🧠 Mental Well-being Data"]
+    A --- C["📊 Content Data"]
+    A --- D["🏆 Creator Profiles"]
+    A --- E["📅 Planning Data"]
+    A --- F["👥 Collaboration Data"]
+
+    classDef center fill:#32105C,stroke:#C084FC,color:#FFFFFF,stroke-width:4px
+    classDef mental fill:#281344,stroke:#B65CFF,color:#E9D5FF,stroke-width:2px
+    classDef content fill:#281344,stroke:#A855F7,color:#E9D5FF,stroke-width:2px
+    classDef profile fill:#281344,stroke:#FF9B83,color:#FFFFFF,stroke-width:2px
+    classDef planning fill:#281344,stroke:#C084FC,color:#FFFFFF,stroke-width:2px
+    classDef collab fill:#172E3C,stroke:#35D6C2,color:#FFFFFF,stroke-width:2px
+
+    class A center
+    class B mental
+    class C content
+    class D profile
+    class E planning
+    class F collab
+
+    linkStyle default stroke:#A78BFA,stroke-width:2px
+```
 
 
 **🤖 AI-Powered Data Processing:** Powered by **Google Gemini AI**, CreatorConnect analyses user inputs to generate intelligent market insights, creative content ideas and personalised weekly schedules, prioritising mental well-being and sustainable creator growth.
