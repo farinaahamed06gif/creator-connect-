@@ -80,18 +80,15 @@ flowchart TD
 ## 📊 3. Dataset
 
 ```mermaid
+%%{init: {"flowchart": {"nodeSpacing": 18, "rankSpacing": 35, "wrappingWidth": 550}, "theme": "dark"}}%%
 flowchart LR
-    A(("👥 CREATOR"))
+    A(("👥<br/>CREATOR"))
 
-    A --- B["🧠 Mental Well-being<br/>• Energy levels<br/>• Mood<br/>• Available hours<br/>• Break preferences"]
-
-    A --- C["📊 Content Data<br/>• Creator niche<br/>• Audience feedback<br/>• Likes & engagement<br/>• Trending topics"]
-
-    A --- D["🏆 Creator Profiles<br/>• Name & bio<br/>• Social platforms<br/>• Audience size<br/>• Interests"]
-
-    A --- E["📅 Planning Data<br/>• Daily goals<br/>• Time slots<br/>• Deadlines<br/>• Task status"]
-
-    A --- F["👥 Collaboration Data<br/>• Requests<br/>• Creator interests<br/>• Applications<br/>• Availability"]
+    A --- B["🧠 Mental Well-being Data<br/>Energy levels · Mood · Available hours · Break preferences"]
+    A --- C["📊 Content Data<br/>Creator niche · Audience feedback · Engagement · Trends"]
+    A --- D["🏆 Creator Profiles<br/>Name & bio · Platforms · Audience size · Interests"]
+    A --- E["📅 Planning Data<br/>Daily goals · Time slots · Deadlines · Task status"]
+    A --- F["👥 Collaboration Data<br/>Requests · Interests · Applications · Availability"]
 
     classDef center fill:#32105C,stroke:#B65CFF,color:#FFFFFF,stroke-width:3px
     classDef mental fill:#281344,stroke:#B65CFF,color:#E9D5FF,stroke-width:1.5px
@@ -113,6 +110,7 @@ flowchart LR
     linkStyle 3 stroke:#C084FC,stroke-width:2px
     linkStyle 4 stroke:#35D6C2,stroke-width:2px
 ```
+
 
 
 
