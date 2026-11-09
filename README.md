@@ -8,12 +8,10 @@
 3. [Dataset](#-3-dataset)
 4. [Tools and Technologies](#4-tools-and-technologies)
 5. [Method-Workflow](#5-method-workflow)
-6. [Key features](#6-key-features)
-7. [Technical Architecture](#7-technical-architecture)
-8. [How to Run This Project](#8-how-to-run-this-project)
-9. [Demo](#9-demo)
-10. [Innovation and Unique Selling Proposition](#10-innovation-and-unique-selling-proposition)
-11. [Author & Contact](#11-author--contact)
+6. [Technical Architecture](#6-technical-architecture)
+7. [Demo](#7-demo)
+8. [Unique Selling Proposition](#8-unique-selling-proposition)
+9. [Author & Contact](#9-author--contact)
 
 
 
@@ -36,8 +34,6 @@ Small content creators often struggle with:
 
 
 **Our Solution:**
-
-### 3. Our Solution – CreatorConnect
 
 CreatorConnect brings audience intelligence, AI-powered content planning and creator growth tracking into one platform.
 
@@ -153,16 +149,16 @@ Gemini AI  --->  AI-Powered Suggestions
 REST APIs  --->  Backend Communication
 
 
-## 7. Technical Architecture
+## 6. Technical Architecture
 
 (To include screenshots of the application, dashboard, AI-generated insights and working features.)
 
 
-## 9. Demo
+## 7. Demo
 
 (To describe the implemented features, project outcomes and how CreatorConnect addresses the identified problem.)
 
-## 10. Innovation and Unique Selling Proposition
+## 8. Unique Selling Proposition
 
 ## 📊 Feature Comparison Matrix
 
@@ -170,7 +166,6 @@ CreatorConnect combines creator networking, collaboration, AI-powered content pl
 
 The following table compares CreatorConnect with existing platforms in the content creator market.
 
-**Legend:**
 - ✅ Supported feature
 - ❌ Not a core advertised feature
 
@@ -201,7 +196,7 @@ Unlike platforms that primarily focus on influencer marketing, brand partnership
 
 Our mission is not just to help creators gain followers, but to help them grow together without burning out.
 
-## 11. Author & Contact
+## 9. Author & Contact
 
 **Project:** CreatorConnect
 
