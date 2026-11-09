@@ -1,0 +1,23 @@
+-- 1. Table for Open Collaboration Listings
+CREATE TABLE IF NOT EXISTS public.collab_listings (
+  id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+  creator_id UUID NOT NULL REFERENCES public.profiles(id) ON DELETE CASCADE,
+  title TEXT NOT NULL,
+  description TEXT NOT NULL,
+  target_niche TEXT NOT NULL,
+  target_audience_size TEXT, -- e.g., '1k-10k' or NULL for any
+  platform TEXT DEFAULT 'YouTube',
+  status TEXT DEFAULT 'OPEN' CHECK (status IN ('OPEN', 'FILLED', 'CLOSED')),
+  created_at TIMESTAMPTZ DEFAULT NOW()
+);
+
+-- 2. Table for Creators who Apply to Listings
+CREATE TABLE IF NOT EXISTS public.collab_applications (
+  id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+  listing_id UUID NOT NULL REFERENCES public.collab_listings(id) ON DELETE CASCADE,
+  applicant_id UUID NOT NULL REFERENCES public.profiles(id) ON DELETE CASCADE,
+  pitch TEXT,
+  status TEXT DEFAULT 'PENDING' CHECK (status IN ('PENDING', 'ACCEPTED', 'REJECTED')),
+  created_at TIMESTAMPTZ DEFAULT NOW(),
+  UNIQUE(listing_id, applicant_id)
+);
