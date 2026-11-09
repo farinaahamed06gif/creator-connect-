@@ -43,7 +43,7 @@ CreatorConnect brings audience intelligence, AI-powered content planning and cre
 
 ```mermaid
 flowchart TD
-    A(["🎨 CREATOR CONNECT"]) --> B["Creator Dashboard"]
+    A([" CREATOR CONNECT"]) --> B["Creator Dashboard"]
 
     B --> C["Audience Intelligence"]
     B --> D["AI Content Assistant"]
