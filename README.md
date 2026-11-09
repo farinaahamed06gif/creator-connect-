@@ -201,7 +201,3 @@ Our mission is not just to help creators gain followers, but to help them grow t
 **Project:** CreatorConnect
 
 **Team Members:** Kirti Sinha,Farina Ahamed,Dipanjan Maity,Sachi Kumari
-
-**GitHub:** (Add repository links)
-
-**Contact:** # creator-connect-
