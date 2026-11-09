@@ -189,8 +189,6 @@ The following table compares CreatorConnect with existing platforms in the conte
 | Views & Follower Growth Tracking | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | Creator Growth Insights | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
-> **Note:** This comparison highlights the core advertised capabilities of the selected platforms. A ❌ indicates that a feature is not a core advertised offering, rather than confirming that the platform has no related functionality. CreatorConnect features represent the proposed project scope and should be updated according to the implemented prototype.
-
 ### 🌟 What Makes CreatorConnect Unique?
 
 Unlike platforms that primarily focus on influencer marketing, brand partnerships, or social media management, CreatorConnect brings essential creator growth tools together in one place.
