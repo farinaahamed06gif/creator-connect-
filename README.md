@@ -81,24 +81,24 @@ flowchart TD
 
 ```mermaid
 flowchart LR
-    A(("👥<br/>CREATOR"))
+    A(("👥 CREATOR"))
 
-    A --- B["🧠 Mental Well-being Data<br/><br/>• Daily energy levels<br/>• Self-reported mood<br/>• Available working hours<br/>• Workload and break preferences"]
+    A --- B["🧠 Mental Well-being<br/>• Energy levels<br/>• Mood<br/>• Available hours<br/>• Break preferences"]
 
-    A --- C["📊 Content Data<br/><br/>• Creator niche and content category<br/>• Audience comments and feedback<br/>• Likes and engagement metrics<br/>• Trending topics and content performance"]
+    A --- C["📊 Content Data<br/>• Creator niche<br/>• Audience feedback<br/>• Likes & engagement<br/>• Trending topics"]
 
-    A --- D["🏆 Creator Profiles<br/><br/>• Creator name and bio<br/>• Preferred social media platforms<br/>• Audience size and interests<br/>• Collaboration preferences"]
+    A --- D["🏆 Creator Profiles<br/>• Name & bio<br/>• Social platforms<br/>• Audience size<br/>• Interests"]
 
-    A --- E["📅 Planning Data<br/><br/>• Daily and weekly goals<br/>• Available time slots<br/>• Content deadlines<br/>• Task completion and scheduling preferences"]
+    A --- E["📅 Planning Data<br/>• Daily goals<br/>• Time slots<br/>• Deadlines<br/>• Task status"]
 
-    A --- F["👥 Collaboration Data<br/><br/>• Collaboration requests<br/>• Creator interests and niches<br/>• Applications and invitations<br/>• Availability and collaboration status"]
+    A --- F["👥 Collaboration Data<br/>• Requests<br/>• Creator interests<br/>• Applications<br/>• Availability"]
 
     classDef center fill:#32105C,stroke:#B65CFF,color:#FFFFFF,stroke-width:3px
-    classDef mental fill:#281344,stroke:#B65CFF,color:#E9D5FF,stroke-width:2px
-    classDef content fill:#281344,stroke:#A855F7,color:#E9D5FF,stroke-width:2px
-    classDef profile fill:#281344,stroke:#FF9B83,color:#FFFFFF,stroke-width:2px
-    classDef planning fill:#281344,stroke:#C084FC,color:#FFFFFF,stroke-width:2px
-    classDef collab fill:#172E3C,stroke:#35D6C2,color:#FFFFFF,stroke-width:2px
+    classDef mental fill:#281344,stroke:#B65CFF,color:#E9D5FF,stroke-width:1.5px
+    classDef content fill:#281344,stroke:#A855F7,color:#E9D5FF,stroke-width:1.5px
+    classDef profile fill:#281344,stroke:#FF9B83,color:#FFFFFF,stroke-width:1.5px
+    classDef planning fill:#281344,stroke:#C084FC,color:#FFFFFF,stroke-width:1.5px
+    classDef collab fill:#172E3C,stroke:#35D6C2,color:#FFFFFF,stroke-width:1.5px
 
     class A center
     class B mental
@@ -107,11 +107,13 @@ flowchart LR
     class E planning
     class F collab
 
-    linkStyle 0,1 stroke:#B65CFF,stroke-width:2px
+    linkStyle 0 stroke:#B65CFF,stroke-width:2px
+    linkStyle 1 stroke:#A855F7,stroke-width:2px
     linkStyle 2 stroke:#FF9B83,stroke-width:2px
     linkStyle 3 stroke:#C084FC,stroke-width:2px
     linkStyle 4 stroke:#35D6C2,stroke-width:2px
 ```
+
 
 
 
